@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 01/01/2024;
+ Date        : January 01, 2024;
  Name        : Odd, Even or Cheating;
  Source      : Beecrowd;
  Description : A simple game in C.

@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/30/2023;
+ Date        : December 30, 2023;
  Name        : Triangle;
  Source      : Beecrowd;
  Description : Find if three numbers make a triangle in C.

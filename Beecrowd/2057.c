@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/30/2023;
+ Date        : December 30, 2023;
  Name        : Time Zone;
  Source      : Beecrowd;
  Description : Find the arrival time of a trip in C.

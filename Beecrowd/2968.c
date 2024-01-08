@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 01/02/2024;
+ Date        : January 02, 2024;
  Name        : Hour for a Run;
  Source      : Beecrowd;
  Description : Assisting a runner in C.

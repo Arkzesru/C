@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 01/01/2024;
+ Date        : January 01, 2024;
  Name        : Average 3;
  Source      : Beecrowd;
  Description : Calculate Average in C.

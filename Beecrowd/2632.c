@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 01/04/2024;
+ Date        : January 04, 2024;
  Name        : Magic And Sword;
  Source      : Beecrowd;
  Description : Determining skill damage based on the enemy's location within

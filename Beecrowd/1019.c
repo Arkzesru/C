@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/30/2023;
+ Date        : December 30, 2023;
  Name        : Time Conversion;
  Source      : Beecrowd;
  Description : Time Conversion (seconds to hours, minutes and second) in C.

@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/29/2023;
+ Date        : December 29, 2023;
  Name        : Simple Calculate;
  Source      : Beecrowd;
  Description : Simple Calculate in C.

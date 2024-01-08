@@ -1,17 +1,23 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : December 29, 2023;
- Name        : Hello World!;
+ Date        : January 07, 2024;
+ Name        : Extremely Basic;
  Source      : Beecrowd;
- Description : Hello World in C.
+ Description : Sum of two variables in C.
  ============================================================================
  */
 
 #include <stdio.h>
 
-int main() {
-	printf("Hello World!\n");
+int main()
+{
+    int A, B;
+    scanf("%d %d", &A, &B);
 
-	return 0;
+    int X = A + B;
+
+    printf("X = %d\n", X);
+
+    return 0;
 }

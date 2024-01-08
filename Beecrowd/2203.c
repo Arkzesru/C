@@ -1,7 +1,7 @@
 /*
  ================================================================================
  Author      : Arkzesru;
- Date        : 01/01/2024;
+ Date        : January 01, 2024;
  Name        : Crowstorm;
  Source      : Beecrowd;
  Description : The ultimate skill to catch the invader in C. The program

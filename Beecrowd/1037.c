@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/30/2023;
+ Date        : December 30, 2023;
  Name        : Interval;
  Source      : Beecrowd;
  Description : Exercise determining number interval's in C.

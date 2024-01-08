@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 01/01/2024;
+ Date        : January 01, 2024;
  Name        : Tri-du;
  Source      : Beecrowd;
  Description : Tri-du is a card game, the program determine the value that

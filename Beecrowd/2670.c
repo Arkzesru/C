@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 01/01/2024;
+ Date        : January 01, 2024;
  Name        : Coffee Machine;
  Source      : Beecrowd;
  Description : The best floor for placing a coffee machine in C.

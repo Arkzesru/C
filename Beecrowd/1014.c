@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/29/2023;
+ Date        : December 29, 2023;
  Name        : Consumption;
  Source      : Beecrowd;
  Description : Fuel Consumption in C.

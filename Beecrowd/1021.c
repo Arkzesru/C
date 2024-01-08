@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/31/2023;
+ Date        : December 31, 2023;
  Name        : Banknotes and coins;
  Source      : Beecrowd;
  Description : Write a program in C to distribute a given amount using the

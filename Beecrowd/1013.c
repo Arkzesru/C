@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : 12/30/2023;
+ Date        : December 30, 2023;
  Name        : Area;
  Source      : The Greatest;
  Description : Find the greatest of three numbers in C.
