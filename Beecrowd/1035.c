@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : January 07, 2024;
+ Date        : January 08, 2024;
  Name        : Selection Test 1;
  Source      : Beecrowd;
  Description : Validation of values in C.
