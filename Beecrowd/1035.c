@@ -19,11 +19,11 @@ int main()
 
     if (select)
     {
-        printf("Valores aceitos\n");
+        printf("Accepted values\n");
     }
     else
     {
-        printf("Valores nao aceitos\n");
+        printf("Rejected values\n");
     }
 
     return 0;
