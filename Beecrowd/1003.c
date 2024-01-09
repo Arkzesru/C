@@ -18,7 +18,7 @@ int main()
 
     int C = a + b;
 
-    printf("SOMA = %d\n", C);
+    printf("SUM = %d\n", C);
 
     return 0;
 }

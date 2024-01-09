@@ -20,7 +20,7 @@ int main()
 
     int difference = (A * B - C * D);
 
-    printf("DIFERENCA = %d\n", difference);
+    printf("DIFFERENCE = %d\n", difference);
 
     return 0;
 }
