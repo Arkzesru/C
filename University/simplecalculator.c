@@ -6,7 +6,7 @@
  Professor   : Eliane Nascimento Pereira;
  Description : (Exercise from the Introduction to Programming material);
 
-               (First semester of Computer Science at Unioeste)]
+               (First semester of Computer Science at Unioeste)
  ============================================================================
  */
 

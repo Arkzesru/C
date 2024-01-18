@@ -19,7 +19,7 @@ int main()
     double x, y, z;
     scanf("%lf %lf", &x, &y);
 
-    z = (x/y) - (x + pow((x/y), (1/2))) / (x - pow((x/y), (2/7)));
+    z = (x / y) - (x + pow((x / y), (1 / 2))) / (x - pow((x / y), (2 / 7)));
 
     printf("z = %lf\n", z);
 

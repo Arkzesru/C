@@ -11,7 +11,6 @@
  ============================================================================
  */
 
-
 #include <stdio.h>
 
 int main()
@@ -24,7 +23,7 @@ int main()
     hours = secondsTotal / 3600;
     secondsTotal %= 3600;
 
-    minutes =  secondsTotal / 60;
+    minutes = secondsTotal / 60;
     secondsTotal %= 60;
 
     seconds = secondsTotal;

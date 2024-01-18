@@ -19,7 +19,7 @@ int main()
     float a, b;
     scanf("%f %f", &a, &b);
 
-    double c = sqrt( (pow(a, 2.0) + pow(b, 2.0)) / (a -b));
+    double c = sqrt((pow(a, 2.0) + pow(b, 2.0)) / (a - b));
 
     printf("z = %.2lf\n", c);
 

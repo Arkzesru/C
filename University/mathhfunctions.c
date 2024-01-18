@@ -28,7 +28,7 @@ int main()
     printf("sin (%g) = %g\n", a, sin(a));
     printf("cos (%g) = %g\n", a, cos(a));
     printf("tan (%g) = %g\n", a, tan(a));
-    printf("tan (PI/2) = %g\n", tan(M_PI/2));
+    printf("tan (PI/2) = %g\n", tan(M_PI / 2));
 
     return 0;
 }

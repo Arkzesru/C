@@ -19,7 +19,7 @@ int main()
     float x;
     scanf("%f", &x);
 
-    double z = (1 + pow(x, 2) - pow((x - 2), 3)) / (x - (1.0/8.0));
+    double z = (1 + pow(x, 2) - pow((x - 2), 3)) / (x - (1.0 / 8.0));
 
     printf("z = %.2lf\n", z);
 

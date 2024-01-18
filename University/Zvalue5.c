@@ -19,7 +19,7 @@ int main()
     double x, z;
     scanf("%lf", &x);
 
-    z = 1 + (1/x) + 1 / (x*x) + 1 / pow(x, 2) + 1 / pow(x, 3) + 1 / pow(x, 4);
+    z = 1 + (1 / x) + 1 / (x * x) + 1 / pow(x, 2) + 1 / pow(x, 3) + 1 / pow(x, 4);
 
     printf("z = %lf\n", z);
 

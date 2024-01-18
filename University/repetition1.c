@@ -27,7 +27,8 @@ int main()
         sum += x;
         average = sum / n;
 
-        if (greater < x) {
+        if (greater < x)
+        {
             greater = x;
         };
 

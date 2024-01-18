@@ -26,7 +26,8 @@ int main()
 
         double angleDifference = fabs(hoursAngle - minutesAngle);
 
-        if (angleDifference > 180) {
+        if (angleDifference > 180)
+        {
             angleDifference = 360 - angleDifference;
         }
 

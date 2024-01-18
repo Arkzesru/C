@@ -19,7 +19,7 @@ int main()
     float a, b, c;
     scanf("%f %f %f", &a, &b, &c);
 
-    double z = 3 / (1/a + 1/b + 1/c);
+    double z = 3 / (1 / a + 1 / b + 1 / c);
 
     printf("z = %.2lf\n", z);
 

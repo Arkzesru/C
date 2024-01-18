@@ -22,6 +22,6 @@ int main()
     double z = sqrt(pow(x, 2.0) + pow(y, 3.0)) / fabs(x + y);
 
     printf("%lf", z);
-    
+
     return 0;
 }

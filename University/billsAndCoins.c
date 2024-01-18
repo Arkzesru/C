@@ -19,7 +19,7 @@ int main()
     double bills;
     scanf("%lf", &bills);
 
-    int banknotes = floor(bills); 
+    int banknotes = floor(bills);
     int coins = (bills - banknotes) * 100;
 
     int b100, b50, b20, b10, b5, b2;

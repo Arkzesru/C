@@ -16,16 +16,18 @@ int isvowel(char ch)
 {
     int vowel;
     vowel = (ch == 'A') || (ch == 'E') || (ch == 'I') || (ch == 'O') || (ch == 'U') ||
-        (ch == 'a') || (ch == 'e') || (ch == 'i') || (ch == 'o') || (ch == 'u');
+            (ch == 'a') || (ch == 'e') || (ch == 'i') || (ch == 'o') || (ch == 'u');
 
     return vowel;
 }
 
-int isletter(char ch) {
+int isletter(char ch)
+{
     return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z');
 }
 
-int iscons (char ch) {
+int iscons(char ch)
+{
     return isletter(ch) && !isvowel(ch);
 }
 
