@@ -10,24 +10,37 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	int p, p1, p2, r, a;
 	scanf("%d %d %d %d %d", &p, &p1, &p2, &r, &a);
 
-	if (r && a) {
+	if (r && a)
+	{
 		printf("Player 2 wins!\n");
-	} else if (r && a == 0) {
+	}
+	else if (r && a == 0)
+	{
 		printf("Player 1 wins!\n");
-	} else if (r == 0 && a) {
+	}
+	else if (r == 0 && a)
+	{
 		printf("Player 1 wins!\n");
-	} else {
+	}
+	else
+	{
 		int sum = p1 + p2;
 
-		if (sum % 2 == 0 && p) {
+		if (sum % 2 == 0 && p)
+		{
 			printf("Player 1 wins!\n");
-		} else if (sum % 2 != 0 && p == 0) {
+		}
+		else if (sum % 2 != 0 && p == 0)
+		{
 			printf("Player 1 wins!\n");
-		} else {
+		}
+		else
+		{
 			printf("Player 2 wins!\n");
 		}
 	}

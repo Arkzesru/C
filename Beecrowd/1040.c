@@ -8,22 +8,27 @@
  ============================================================================
  */
 
-
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	float a, b, c, d;
 	scanf("%f %f %f %f", &a, &b, &c, &d);
 
 	float average = ((a * 2) + (b * 3) + (c * 4) + d) / 10;
 
-	if (average >= 7.0) {
+	if (average >= 7.0)
+	{
 		printf("Average: %.1f\n", average);
 		printf("Student passed.\n");
-	} else if (average < 5.0) {
+	}
+	else if (average < 5.0)
+	{
 		printf("Media: %.1f\n", average);
 		printf("Student failed.\n");
-	} else {
+	}
+	else
+	{
 		printf("Media: %.1f\n", average);
 		printf("Student on exam.\n");
 
@@ -34,10 +39,13 @@ int main() {
 
 		average = (average + examGrade) / 2;
 
-		if (average > 5.0) {
+		if (average > 5.0)
+		{
 			printf("Student passed.\n");
 			printf("Final grade: %.1f\n", average);
-		} else {
+		}
+		else
+		{
 			printf("Student failed.\n");
 			printf("Final grade: %.1f\n", average);
 		}

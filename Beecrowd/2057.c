@@ -11,13 +11,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int main()
+{
 	int departureTime, travelTime, destinationTimeZone;
 
 	scanf("%d %d %d", &departureTime, &travelTime, &destinationTimeZone);
 
-	int arrivalTime = (departureTime + travelTime + destinationTimeZone + 24)
-			% 24;
+	int arrivalTime = (departureTime + travelTime + destinationTimeZone + 24) % 24;
 
 	printf("%d\n", arrivalTime);
 

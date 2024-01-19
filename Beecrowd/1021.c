@@ -5,19 +5,20 @@
  Name        : Banknotes and coins;
  Source      : Beecrowd;
  Description : Write a program in C to distribute a given amount using the
- 			   smallest number of bills and coins possible.
+			   smallest number of bills and coins possible.
  ============================================================================
  */
 
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int main()
+{
 	double money;
 	scanf("%lf", &money);
 
 	int oneHundredDollars, fiftyDollars, twenyDollars, tenDollars, fiveDollars,
-			twoDollars;
+		twoDollars;
 	int oneDollar, halfDollar, quarter, dime, nickel, penny;
 
 	int bills = money * 100;

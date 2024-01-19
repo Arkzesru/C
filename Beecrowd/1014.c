@@ -10,7 +10,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	int totalDistance;
 	float fuelConsumption;
 

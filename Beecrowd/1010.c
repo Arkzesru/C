@@ -10,7 +10,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	int code, units, code2, units2;
 	float price, price2;
 

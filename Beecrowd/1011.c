@@ -16,7 +16,7 @@ int main()
     double R;
     scanf("%lf", &R);
 
-    double volume = (4/3.0) * 3.14159 * pow(R, 3);
+    double volume = (4 / 3.0) * 3.14159 * pow(R, 3);
 
     printf("VOLUME = %.3lf\n", volume);
 

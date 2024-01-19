@@ -10,7 +10,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	float a, b, c;
 
 	scanf("%f %f %f", &a, &b, &c);
@@ -22,8 +23,8 @@ int main() {
 	float rectangle = a * b;
 
 	printf(
-			"TRIANGLE: %.3f\nCIRCLE: %.3f\nTRAPEZIUM: %.3f\nSQUARE: %.3f\nRECTANGLE: %.3f\n",
-			rectangledTriangle, circle, trapezium, square, rectangle);
+		"TRIANGLE: %.3f\nCIRCLE: %.3f\nTRAPEZIUM: %.3f\nSQUARE: %.3f\nRECTANGLE: %.3f\n",
+		rectangledTriangle, circle, trapezium, square, rectangle);
 
 	return 0;
 }

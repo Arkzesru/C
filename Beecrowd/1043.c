@@ -10,14 +10,18 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	float A, B, C;
 	scanf("%f %f %f", &A, &B, &C);
 
-	if ((A + B) > C && (B + C) > A && (A + C) > B) {
+	if ((A + B) > C && (B + C) > A && (A + C) > B)
+	{
 		float perimeter = A + B + C;
 		printf("Perimeter = %.1f\n", perimeter);
-	} else {
+	}
+	else
+	{
 		float areaTrapezium = ((B + A) * C) / 2;
 		printf("Area = %.1f\n", areaTrapezium);
 	}

@@ -11,7 +11,8 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int main()
+{
 	int laps, signs;
 	scanf("%d %d", &laps, &signs);
 
@@ -30,7 +31,7 @@ int main() {
 	ninety = ceil(totalSigns * 0.90);
 
 	printf("%d %d %d %d %d %d %d %d %d\n", ten, tweny, tirty, forty, fifty,
-			sixty, seventy, eighty, ninety);
+		   sixty, seventy, eighty, ninety);
 
 	return 0;
 }
