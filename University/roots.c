@@ -50,8 +50,8 @@ void showInfo(double a, double b, double c)
     }
     else
     {
-        printf("R1: %.2lf\n", root1);
-        printf("R2: %.2lf\n", root2);
+        printf("Root 1: %.2lf\n", root1);
+        printf("Root 2: %.2lf\n", root2);
     }
 }
 
