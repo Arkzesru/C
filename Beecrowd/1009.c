@@ -4,7 +4,7 @@
  Date        : January 07, 2024;
  Name        : Salary with Bonus;
  Source      : Beecrowd;
- Description : Calculating the salary and the bonus of a employee in C.
+ Description : Calculating the salary and bonus for an employee in C.
  ============================================================================
  */
 

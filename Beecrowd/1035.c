@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : January 08, 2024;
+ Date        : January 07, 2024;
  Name        : Selection Test 1;
  Source      : Beecrowd;
  Description : Validation of values in C.
@@ -19,11 +19,11 @@ int main()
 
     if (select)
     {
-        printf("Accepted values\n");
+        printf("Valores nao aceitos\n");
     }
     else
     {
-        printf("Rejected values\n");
+        printf("Valores aceitos\n");
     }
 
     return 0;

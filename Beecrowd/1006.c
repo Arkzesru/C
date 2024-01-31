@@ -19,7 +19,7 @@ int main()
 
     double average = (A * 2 + B * 3 + C * 5) / 10;
 
-    printf("AVERAGE = %.1lf\n", average);
+    printf("MEDIA = %.1lf\n", average);
 
     return 0;
 }

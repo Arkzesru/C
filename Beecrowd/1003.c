@@ -4,7 +4,7 @@
  Date        : January 07, 2024;
  Name        : Simple Sum;
  Source      : Beecrowd;
- Description : Calculating two numbers in C.
+ Description : Performing addition of two numbers in C.
  ============================================================================
  */
 
@@ -18,7 +18,7 @@ int main()
 
     int C = a + b;
 
-    printf("SUM = %d\n", C);
+    printf("SOMA = %d\n", C);
 
     return 0;
 }

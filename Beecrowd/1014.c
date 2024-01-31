@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : December 29, 2023;
+ Date        : December 30, 2023;
  Name        : Consumption;
  Source      : Beecrowd;
- Description : Fuel Consumption in C.
+ Description : Calculating fuel Consumption in C.
  ============================================================================
  */
 

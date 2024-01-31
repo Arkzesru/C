@@ -4,7 +4,7 @@
  Date        : January 07, 2024;
  Name        : Age in Days;
  Source      : Beecrowd;
- Description : Calculating the Age in C.
+ Description : Calculating the age in years, months, and days in C.
  ============================================================================
  */
 
@@ -23,9 +23,9 @@ int main()
     ageInDays %= 30;
     days = ageInDays;
 
-    printf("%d year(s)\n", years);
-    printf("%d month(s)\n", months);
-    printf("%d day(s)\n", days);
+    printf("%d ano(s)\n", years);
+    printf("%d mes(es)\n", months);
+    printf("%d dia(s)\n", days);
 
     return 0;
 }

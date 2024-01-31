@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : December 30, 2023;
+ Date        : January 01, 2024;
  Name        : Interval;
  Source      : Beecrowd;
- Description : Exercise determining number interval's in C.
+ Description : Exercise determining number intervals in C.
  ============================================================================
  */
 
@@ -17,23 +17,23 @@ int main()
 
 	if (number >= 0 && number <= 25)
 	{
-		printf("Interval [0,25]\n");
+		printf("Intervalo [0,25]\n");
 	}
 	else if (number > 25 && number <= 50)
 	{
-		printf("Interval (25,50]\n");
+		printf("Intervalo (25,50]\n");
 	}
 	else if (number > 50 && number <= 75)
 	{
-		printf("Interval (50,75]\n");
+		printf("Intervalo (50,75]\n");
 	}
 	else if (number > 75 && number <= 100)
 	{
-		printf("Range (75,100]\n");
+		printf("Intervalo (75,100]\n");
 	}
 	else
 	{
-		printf("Out of Range\n");
+		printf("Fora de intervalo\n");
 	}
 
 	return 0;

@@ -4,7 +4,7 @@
  Date        : December 30, 2023;
  Name        : Time Conversion;
  Source      : Beecrowd;
- Description : Time Conversion (seconds to hours, minutes and second) in C.
+ Description : Time Conversion (from seconds to hours, minutes, and second) in C.
  ============================================================================
  */
 
@@ -22,7 +22,7 @@ int main()
 	minutes = (durationInSeconds % 3600) / 60;
 	seconds = (durationInSeconds % 60) % 60;
 
-	printf("%02d:%02d:%02d\n", hours, minutes, seconds);
+	printf("%d:%d:%d\n", hours, minutes, seconds);
 
 	return 0;
 }

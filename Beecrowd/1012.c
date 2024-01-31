@@ -4,7 +4,7 @@
  Date        : December 30, 2023;
  Name        : Area;
  Source      : Beecrowd;
- Description : Calculating Area in C.
+ Description : Calculating area in C.
  ============================================================================
  */
 
@@ -23,7 +23,7 @@ int main()
 	float rectangle = a * b;
 
 	printf(
-		"TRIANGLE: %.3f\nCIRCLE: %.3f\nTRAPEZIUM: %.3f\nSQUARE: %.3f\nRECTANGLE: %.3f\n",
+		"TRIANGULO: %.3f\nCIRCULO: %.3f\nTRAPEZIO: %.3f\nQUADRADO: %.3f\nRETANGULO: %.3f\n",
 		rectangledTriangle, circle, trapezium, square, rectangle);
 
 	return 0;

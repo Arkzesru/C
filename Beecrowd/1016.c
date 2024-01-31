@@ -2,9 +2,9 @@
  ============================================================================
  Author      : Arkzesru;
  Date        : December 30, 2023;
- Name        : Car Distance;
+ Name        : Distance;
  Source      : Beecrowd;
- Description : Calculate Car Distance in C.
+ Description : Calculating the distance traveled by a car in C.
  ============================================================================
  */
 
@@ -17,7 +17,7 @@ int main()
 
 	int timeInMinutes = distance * 2;
 
-	printf("%d minutes\n", timeInMinutes);
+	printf("%d minutos\n", timeInMinutes);
 
 	return 0;
 }

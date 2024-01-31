@@ -4,7 +4,7 @@
  Date        : January 07, 2024;
  Name        : Salary;
  Source      : Beecrowd;
- Description : Calculating the salary of a employee in C.
+ Description : Calculating an employee's salary in C.
  ============================================================================
  */
 

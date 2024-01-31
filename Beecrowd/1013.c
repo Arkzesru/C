@@ -4,7 +4,7 @@
  Date        : December 30, 2023;
  Name        : Area;
  Source      : The Greatest;
- Description : Find the greatest of three numbers in C.
+ Description : A C program to determine the largest among three numbers.
  ============================================================================
  */
 
@@ -20,7 +20,7 @@ int main()
 	int greaterAB = (a + b + abs(a - b)) / 2;
 	int greatest = (greaterAB + c + abs(greaterAB - c)) / 2;
 
-	printf("%d it's the greatest!\n", greatest);
+	printf("%d eh o maior\n", greatest);
 
 	return 0;
 }

@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : December 29, 2023;
+ Date        : December 30, 2023;
  Name        : Simple Calculate;
  Source      : Beecrowd;
- Description : Simple Calculate in C.
+ Description : Simple calculation in C.
  ============================================================================
  */
 
@@ -20,7 +20,7 @@ int main()
 
 	float amount = (price * units) + (price2 * units2);
 
-	printf("Amount to pay: $ %.2f\n", amount);
+	printf("VALOR A PAGAR: R$ %.2f\n", amount);
 
 	return 0;
 }
