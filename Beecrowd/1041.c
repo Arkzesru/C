@@ -4,7 +4,7 @@
  Date        : January 01, 2024;
  Name        : Coordinates of a Point;
  Source      : Beecrowd;
- Description : Determining the quadrant in C.
+ Description : C program to determine the quadrant of a point.
  ============================================================================
  */
 
@@ -17,15 +17,15 @@ int main()
 
 	if (x == 0 && y == 0)
 	{
-		printf("Origin\n");
+		printf("Origem\n");
 	}
 	else if (x != 0 && y == 0)
 	{
-		printf("X-axis");
+		printf("Eixo X");
 	}
 	else if (x == 0 && y != 0)
 	{
-		printf("Y-axis\n");
+		printf("Eixo Y\n");
 	}
 	else if (x > 0 && y > 0)
 	{

@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : December 30, 2023;
+ Date        : January 01, 2024;
  Name        : Triangle;
  Source      : Beecrowd;
- Description : Find if three numbers make a triangle in C.
+ Description : C program to determine if three numbers can form a triangle.
  ============================================================================
  */
 
@@ -18,7 +18,7 @@ int main()
 	if ((A + B) > C && (B + C) > A && (A + C) > B)
 	{
 		float perimeter = A + B + C;
-		printf("Perimeter = %.1f\n", perimeter);
+		printf("Perimetro = %.1f\n", perimeter);
 	}
 	else
 	{
