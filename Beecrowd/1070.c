@@ -4,7 +4,8 @@
  Date        : January 31, 2024;
  Name        : Six Odd Numbers;
  Source      : Beecrowd;
- Description : The program print the 6 consecutive odd numbers from a number;
+ Description : The program prints the six consecutive odd numbers from a
+               given number;
  ============================================================================
  */
 

@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : January 24, 2024;
+ Date        : January 28, 2024;
  Name        : Even Between five Numbers;
  Source      : Beecrowd;
- Description : The program counts how much even numbers has beetwen five
+ Description : The program counts how many even numbers are beetwen five
                numbers.
  ============================================================================
  */

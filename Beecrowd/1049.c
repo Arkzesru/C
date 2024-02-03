@@ -4,7 +4,7 @@
  Date        : January 09, 2024;
  Name        : Animal;
  Source      : Beecrowd;
- Description : Choosing an animal in C.
+ Description : Selecting an animal in C.
  ============================================================================
  */
 

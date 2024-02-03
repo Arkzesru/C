@@ -4,7 +4,7 @@
  Date        : January 29, 2024;
  Name        : Even, Odd, Positive and Negative;
  Source      : Beecrowd;
- Description : The program count how many values are even, odd, positive or
+ Description : The program counts how many values are even, odd, positive or
                negative.
  ============================================================================
  */

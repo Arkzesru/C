@@ -4,7 +4,7 @@
  Date        : January 09, 2024;
  Name        : Salary Increase;
  Source      : Beecrowd;
- Description : Calculating employees' salary increases in C.
+ Description : Calculating salary increases for employees in C.
  ============================================================================
  */
 
@@ -41,9 +41,9 @@ int main()
     double increase = salary * percentIncrease;
     double newSalary = salary + increase;
 
-    printf("New Salary: %.2lf\n", newSalary);
-    printf("Money earned: %.2lf\n", increase);
-    printf("In percentage: %.lf %%\n", percentIncrease * 100);
+    printf("Novo salario: %.2lf\n", newSalary);
+    printf("Reajuste ganho: %.2lf\n", increase);
+    printf("Em percentual: %.lf %%\n", percentIncrease * 100);
 
     return 0;
 }

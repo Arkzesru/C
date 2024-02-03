@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : January 24, 2024;
+ Date        : January 25, 2024;
  Name        : Positive Numbers;
  Source      : Beecrowd;
- Description : The program prints the total number of positive numbers;
+ Description : The program prints the total number of positive numbers.
  ============================================================================
  */
 
@@ -17,7 +17,7 @@ int main()
 
     int isPositive = (a > 0) + (b > 0) + (c > 0) + (d > 0) + (e > 0) + (f > 0);
 
-    printf("%d positive values\n", isPositive);
+    printf("%d valores positivos\n", isPositive);
 
     return 0;
 }

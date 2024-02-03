@@ -4,7 +4,7 @@
  Date        : January 07, 2024;
  Name        : Game Time with Minutes;
  Source      : Beecrowd;
- Description : Calculating the duration of a game in C.
+ Description : Calculating the duration of a game in hours using C.
  ============================================================================
  */
 
@@ -30,7 +30,7 @@ int main()
 
     minutes = (60 - initialMinute + finalMinute) % 60;
 
-    printf("THE GAME LASTED %d HOUR(S) AND %d MINUTE(S)\n", hours, minutes);
+    printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", hours, minutes);
 
     return 0;
 }

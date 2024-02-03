@@ -4,7 +4,7 @@
  Date        : January 24, 2024;
  Name        : Even Numbers;
  Source      : Beecrowd;
- Description : The program prints all even number between 1 and 100;
+ Description : The program prints all even numbers between 1 and 100.
  ============================================================================
  */
 

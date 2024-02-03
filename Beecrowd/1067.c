@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : January 24, 2024;
+ Date        : January 30, 2024;
  Name        : Odd Numbers;
  Source      : Beecrowd;
- Description : The program print the odd number between 1 and 100;
+ Description : The program prints the odd numbers between 1 and 100;
  ============================================================================
  */
 

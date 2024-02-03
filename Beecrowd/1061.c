@@ -1,10 +1,11 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : January 24, 2024;
+ Date        : January 26, 2024;
  Name        : Event Time;
  Source      : Beecrowd;
- Description : The program calculates the duration of the event at his University;
+ Description : The program calculates the duration of the event at their
+               University;
  ============================================================================
  */
 
@@ -42,9 +43,9 @@ int main()
         hours = 0;
     }
 
-    printf("%d day(s)\n", days);
-    printf("%d hour(s)\n", hours);
-    printf("%d minute(s)\n", minutes);
-    printf("%d second(s)\n", restOfSeconds);
+    printf("%d dia(s)\n", days);
+    printf("%d hora(s)\n", hours);
+    printf("%d minuto(s)\n", minutes);
+    printf("%d segundo(s)\n", restOfSeconds);
     return 0;
 }
