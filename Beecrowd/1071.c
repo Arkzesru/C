@@ -4,7 +4,8 @@
  Date        : February 03, 2024;
  Name        : Sum of Consecutive Odd Numbers I;
  Source      : Beecrowd;
- Description :
+ Description : C program that prints the sum of all consecutive odd numbers
+               between two given numbers.
  ============================================================================
  */
 
