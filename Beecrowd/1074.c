@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Arkzesru;
- Date        : February 04, 2024;
+ Date        : February 05, 2024;
  Name        : Even or Odd;
  Source      : Beecrowd;
  Description : Determining wheter a given number is even, odd, positve or
