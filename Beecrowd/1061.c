@@ -18,10 +18,12 @@ int main()
     int startDay, endDay;
     int hoursStartDate, minutesStartDate, secondsStartDate, hoursEndDate, minutesEndDate, secondsEndDate;
 
-    scanf("Day %d", &startDay);
-    scanf("%d : %d : %d\n", &hoursStartDate, &minutesStartDate, &secondsStartDate);
+    printf("Dia ");
+    scanf("%d", &startDay);
+    scanf("%d : %d : %d", &hoursStartDate, &minutesStartDate, &secondsStartDate);
 
-    scanf("Day %u", &endDay);
+    printf("Dia ");
+    scanf("%u", &endDay);
     scanf("%d : %d : %d", &hoursEndDate, &minutesEndDate, &secondsEndDate);
 
     int days, hours, minutes;
