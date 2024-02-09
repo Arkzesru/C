@@ -2,7 +2,7 @@
  ============================================================================
  Author      : Arkzesru;
  Date        : February 08, 2024;
- Name        : Sequence IJ 3;
+ Name        : Sequence IJ 4;
  Source      : Beecrowd;
  Description : A C program that prints a predetermined sequence of values
                for variables I and J.
